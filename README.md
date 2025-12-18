@@ -11,4 +11,4 @@ It has restrictions using the window size
 The user can play the game or watch the program solve the problem in an animated way with the minimum amount of moves
 
 Here's a screenshot of the working game:
-![Hanoi towers game](https://github.com/dxchel/Hanoi/blob/main/res/screeenshot.png)
+![Hanoi towers game](https://github.com/dxchel/Hanoi/blob/main/res/screenshot.png)
